@@ -1,0 +1,12 @@
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.deps.json
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.runtimeconfig.json
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.runtimeconfig.dev.json
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.dll
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.csprojResolveAssemblyReference.cache
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.csproj.CoreCompileInputs.cache
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.AssemblyInfoInputs.cache
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.AssemblyInfo.cs
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.pdb
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.dll
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.pdb
+E:\SCM.FrameworkNetCore\Framework\FrameworkTest\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\cfg.json
